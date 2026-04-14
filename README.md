@@ -119,7 +119,7 @@ jupyter notebook
 2. Run the file:
 
 ```
-KrinaSuthar_11812_PythonAnalyzer.ipynb
+Healthcare_Analytics.ipynb
 ```
 
 3. Execute cells step-by-step to:
